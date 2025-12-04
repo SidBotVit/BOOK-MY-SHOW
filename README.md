@@ -93,8 +93,8 @@ src/main/java/com/bookmyshow
 ### **1. Clone the repo**
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/SidBotVit/BOOK-MY-SHOW/tree/main.git
+
 ```
 
 ### **2. Configure DB (MySQL example)**
